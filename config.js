@@ -341,7 +341,7 @@ var config = {
             id: 'chapter-7',
             alignment: 'left',
             hidden: false,
-            title: 'STS with oil products tanker',
+            title: 'STS with oil products tanker Vemahope',
             description: '<img src="sd1.png" style="width:100%; height:40%;"><br>The mysterious Asya Energy–formerly Trader IV and LNG Rivers–emerged safely from the Red Sea and the Suez Canal (see our June 17, 2024 note and June 21, 2024 note). While waiting offshore near Port Said, it engaged in another ship-to-ship transfer, this time with the Vemahope tanker (see screenshot below). We note that there is an increasing use of GPS jamming in the region to disrupt the accuracy of GPS-guided munitions.',
             location: {
                 center: [32.49662, 31.70657],
