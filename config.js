@@ -177,7 +177,7 @@ var config = {
             alignment: 'fully',
             hidden: false,
             title: 'First STS Transfer detected by SynMax Theia',
-            description: '<img src="/images/unnamed (2).png" alt="STS Transfer Image" style="width:100%; height:40%;"><br>On June 17, 2024, SynMax Leviaton detected that the LNG vessel Asya Energy (previously known as LNG Rivers and later as Trader IV) was heading towards the #BabElMandeb Strait for the first time in five months.',
+            description: '<img src="STORY-1-TRIAL/images/unnamed (2).png" style="width:100%; height:40%;"><br>On June 17, 2024, SynMax Leviaton detected that the LNG vessel Asya Energy (previously known as LNG Rivers and later as Trader IV) was heading towards the #BabElMandeb Strait for the first time in five months.',
             location: {
                 center: [56.72450, 21.71278],
                 zoom: 5.43,
