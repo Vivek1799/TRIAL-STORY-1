@@ -177,7 +177,7 @@ var config = {
             alignment: 'fully',
             hidden: false,
             title: 'First STS Transfer detected by SynMax Theia',
-            description: '<img src="/Users/vivekpatil/Documents/GitHub/TRIAL-STORY-1/STORY-1-TRIAL/images/unnamed (2).png" style="width:100%; height:40%;"><br>On June 17, 2024, SynMax Leviaton detected that the LNG vessel Asya Energy (previously known as LNG Rivers and later as Trader IV) was heading towards the #BabElMandeb Strait for the first time in five months.',
+            description: '<img src="unnamed (2).png" style="width:100%; height:40%;"><br>On June 17, 2024, SynMax Leviaton detected that the LNG vessel Asya Energy (previously known as LNG Rivers and later as Trader IV) was heading towards the #BabElMandeb Strait for the first time in five months.',
             location: {
                 center: [56.72450, 21.71278],
                 zoom: 5.43,
@@ -342,7 +342,7 @@ var config = {
             alignment: 'center',
             hidden: false,
             title: 'STS with oil products tanker',
-            description: '<img src="/Users/vivekpatil/Documents/GitHub/TRIAL-STORY-1/STORY-1-TRIAL/images/unnamed (2).png" style="width:100%; height:40%;"><br>The mysterious Asya Energy–formerly Trader IV and LNG Rivers–emerged safely from the Red Sea and the Suez Canal (see our June 17, 2024 note and June 21, 2024 note). While waiting offshore near Port Said, it engaged in another ship-to-ship transfer, this time with the Vemahope tanker (see screenshot below). We note that there is an increasing use of GPS jamming in the region to disrupt the accuracy of GPS-guided munitions.',
+            description: '<img src="sd1.png" style="width:100%; height:40%;"><br>The mysterious Asya Energy–formerly Trader IV and LNG Rivers–emerged safely from the Red Sea and the Suez Canal (see our June 17, 2024 note and June 21, 2024 note). While waiting offshore near Port Said, it engaged in another ship-to-ship transfer, this time with the Vemahope tanker (see screenshot below). We note that there is an increasing use of GPS jamming in the region to disrupt the accuracy of GPS-guided munitions.',
             location: {
                 center: [32.49662, 31.70657],
 zoom: 7.20,
